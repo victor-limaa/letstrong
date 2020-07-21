@@ -1,0 +1,12 @@
+{
+  "name": "letstrong",
+  "displayName": "letstrong",
+  "expo": {
+    "name": "letstrong",
+    "slug": "letstrong",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
